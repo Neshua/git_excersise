@@ -5,5 +5,5 @@ Description: In this sci-fi mystery frogs are going extict as evil scientist gen
 ch1: a frog out of water - Howard travels to France finding out tadpoles are missing
 ch2: investigation: the investigation partnered with French partner Jacque Montclair (a human) who does not like to work collaboratively
 ch3: Little frog in a big pond - this is bigger than frogs
-ch4: The red haring - framing solar panels
+ch4: The red herring - framing solar panels
 ch5: The electric toadstool - Howard is the criminal
